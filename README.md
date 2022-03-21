@@ -1,5 +1,8 @@
 
 # Gestion de l’infrastructure d’une entreprise multi-site 
+<div align="center">
+    <img src="images/shema_réseau.png" alt="infra" width="80%" height="80%">
+</div>
 
 •	Mise en place, installation et configuration des serveurs et des postes des 2 sites (le site local mère et le site distant)
 
